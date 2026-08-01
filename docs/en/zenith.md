@@ -70,7 +70,7 @@ After launching, click `Multiplayer` and you'll see several network lines:
 | Direct-UDP | For testing purpose. |
 | NAT | Worth trying. This network line has slightly lower network load to our machines, and usually turns out **great in connection quality**. |
 | NAT-UDP | For testing purpose. |
-| EO | Low bandwidth, but accessible across the world. You may try this if you're far away from China. |
+| Prime | Low bandwidth, but accessible across the world. You may try this if you're far away from China. |
 
 !!! tip "Ping"
 
@@ -151,6 +151,26 @@ If you set the JVM parameter as described in the [Joining Guide](#guide-join), y
     
     If your .minecraft path contains **non-ASCII characters**, you may fail to use update service throuogh JVM arguments. For this, please direct to version folder and run `update.exe` to update manually.
 
-### Other Services
+### Web Map
 
-Web map, statistics, monitoring — still under construction.
+You can visit the [web map](https://bluemap.sushimc.top) to view the survival server's real-time map.
+The creative server does not have a map available yet.
+
+
+## Known Issues
+
+> Some known issues during gameplay — refer to these to help you avoid the pitfalls.
+
+### Memory Issues
+
+Due to poor memory optimization in the [Cataclysm](https://www.mcmod.cn/class/5214.html) and [Sable](https://www.mcmod.cn/class/26344.html) mods, the client experiences significant memory pressure during gameplay. We recommend allocating as much memory as possible (at least 6 GB recommended).
+
+
+### NBT Loss
+
+Special equipment provided by the [Incendium](https://www.mcmod.cn/class/4064.html) datapack is implemented by adding special NBT entries to vanilla equipment. Incendium's compatibility with Cataclysm on the server is poor, which may cause Incendium-generated loot equipment to lose its NBT entries and degrade into ordinary vanilla equipment. There is currently no known solution.
+
+
+### Rope Lag
+
+The Rope provided by the Sable mod causes slight lag on both the client and server when pulling physical structures, which is especially noticeable in large quantities. We recommend minimizing rope usage; for decoration, consider the chain connections from the [Bits n' Bobs](https://www.mcmod.cn/class/23660.html) mod.
