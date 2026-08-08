@@ -56,87 +56,6 @@ Once configured, you can launch the Sushi: Zenith modpack!
 
 ---
 
-## Gameplay Guide
-
-> A quick overview of common things to know about Sushi: Zenith.
-
-### Network Lines
-
-After launching, click `Multiplayer` and you'll see several network lines:
-
-| Line | Description |
-|------|-------------|
-| Direct | Connect directly to our server machine. Usually **laggy** if you're not in China. |
-| Direct-UDP | For testing purpose. |
-| NAT | Worth trying. This network line has slightly lower network load to our machines, and usually turns out **great in connection quality**. |
-| NAT-UDP | For testing purpose. |
-| Prime | Low bandwidth, but accessible across the world. You may try this if you're far away from China. |
-
-!!! tip "Ping"
-
-    Press `TAB` in-game to open the player list and see your **ping**. It may show `-1` right after joining — wait a moment for it to update.
-
-### Proxy Server Commands
-
-![Server selection](../images/zh-CN/server-switch.png)
-
-Use `/server` to switch between sub-servers:
-
-| Server | Purpose |
-|--------|---------|
-| `zenith` | **Main survival server** — where most players hang out |
-| `zenith-creative` | Creative mode for schematic and testing |
-
-### Cross-server Chat
-
-![Cross-server chat](../images/zh-CN/cross-server-chat.png)
-
-You can see chat from all sub-servers on the SushiMC network. Messages from players on the same server as you appear normally, while messages from other servers are prefixed with the server name before the player name.
-
-### Voxy Mod
-
-The Sushi: Zenith modpack comes with the **Voxy** distance extension mod by default. You can adjust your desired render distance in the video settings.
-
-![Voxy settings](../images/zh-CN/voxy-settings.png)
-
-The server provides a maximum render distance of **16 chunks** and sends up to **256 chunks** of Voxy scenery. You can adjust how much Voxy data you want to receive in the Voxy Server Side mod settings.
-
-![Voxy Server Side settings](../images/zh-CN/voxy-settings2.png)
-
-Voxy supports shaders on Sushi: Zenith. We recommend [**Complementary**](https://modrinth.com/shader/complementary-unbound) shaders with the [**Euphoria Patches**](https://modrinth.com/mod/euphoria-patches) mod for great performance and visuals.
-
-!!! warning "Voxy Performance"
-
-    Voxy is well-optimized, but some devices may still struggle. If you experience performance issues, you can disable **Enable Voxy** and **Receive Server-Side Scenery** in the video settings.
-
----
-
-## Advanced Tips
-
-> These tips can improve your experience but are entirely optional.
->
-> They may require some technical knowledge. Don't worry if you can't follow — you **don't need** to do any of this to enjoy Sushi: Zenith.
-
-### Syncing Xaero Maps Across Lines {#data-sync}
-
-If you frequently switch network lines, your **Xaero map** data will be separate for each line, because the game treats each line as a different server. You can work around this with a bit of effort.
-
-??? tip "Data Sync (for advanced users)"
-
-    1. Open your version folder and find the `xaero` directory, containing `minimap` (minimap) and `world-map` (fullscreen map) subdirectories
-    2. **Keep** one line's map folders, **delete** the others
-    3. Create **shortcuts** (Windows) or **symlinks** (Linux/macOS) pointing to the kept folders
-
-    All lines will now share the same map data — set it and forget it.
-
-### Syncing Voxy Chunk Cache Across Lines
-
-Similar to above, you may notice that after switching lines, your **Voxy chunk cache** is gone and needs to reload. You can apply the same [Data Sync](#data-sync) approach to the `.voxy` directory in your version folder — create shortcuts or symlinks so the chunk cache is shared across lines. The final folder structure might look like this:
-
-![Data sync example](../images/zh-CN/data-sync.png)
-
----
-
 ## Services
 
 > Public services available for Sushi: Zenith players.
@@ -156,21 +75,14 @@ If you set the JVM parameter as described in the [Joining Guide](#guide-join), y
 You can visit the [web map](https://bluemap.sushimc.top) to view the survival server's real-time map.
 The creative server does not have a map available yet.
 
+---
 
-## Known Issues
+## Quick Navigation
 
-> Some known issues during gameplay — refer to these to help you avoid the pitfalls.
+> Click the links below to view other related guides for Sushi: Zenith.
 
-### Memory Issues
+[Basic Gameplay Guide](zenith-game.md)
 
-Due to poor memory optimization in the [Cataclysm](https://www.mcmod.cn/class/5214.html) and [Sable](https://www.mcmod.cn/class/26344.html) mods, the client experiences significant memory pressure during gameplay. We recommend allocating as much memory as possible (at least 6 GB recommended).
+[Advanced Options](zenith-advanced.md)
 
-
-### NBT Loss
-
-Special equipment provided by the [Incendium](https://www.mcmod.cn/class/4064.html) datapack is implemented by adding special NBT entries to vanilla equipment. Incendium's compatibility with Cataclysm on the server is poor, which may cause Incendium-generated loot equipment to lose its NBT entries and degrade into ordinary vanilla equipment. There is currently no known solution.
-
-
-### Rope Lag
-
-The Rope provided by the Sable mod causes slight lag on both the client and server when pulling physical structures, which is especially noticeable in large quantities. We recommend minimizing rope usage; for decoration, consider the chain connections from the [Bits n' Bobs](https://www.mcmod.cn/class/23660.html) mod.
+[Known Bugs and Issues (worth a read!)](zenith-known-bugs.md)

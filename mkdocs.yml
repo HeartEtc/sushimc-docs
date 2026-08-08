@@ -83,4 +83,8 @@ nav:
   - Home: index.md
   - About: about.md
   - Social: social.md
-  - Zenith: zenith.md
+  - Zenith:
+    - zenith.md
+    - zenith-game.md
+    - zenith-advanced.md
+    - zenith-known-bugs.md

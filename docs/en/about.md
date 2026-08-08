@@ -15,6 +15,8 @@ Well I can't remember anything. Please **imagine** SushiMC's past, present and f
 
 ## Core Development Team
 
+Listed in no particular order.
+
 <div class="grid cards" markdown>
 
 - **OrangeWolf**
@@ -32,6 +34,11 @@ Well I can't remember anything. Please **imagine** SushiMC's past, present and f
     ![avatar](../images/zh-CN/octopus.jpg){: style="height:64px;width:64px;border-radius:50%;float:left;margin-right:12px;margin-bottom:8px;" }
     
     Founder of SushiMC, free labor.
+    
+- **Nickel58**
+    ![avatar](../images/zh-CN/nickel58.jpg){: style="height:64px;width:64px;border-radius:50%;float:left;margin-right:12px;margin-bottom:8px;" }
+    
+    Game management & maintenance
 
 </div>
 
@@ -50,6 +57,10 @@ Well I can't remember anything. Please **imagine** SushiMC's past, present and f
 * [Scarecrow01 aka Flintl0ck](https://www.curseforge.com/members/flintl0ck/projects) resourcepack contributor
 
 * [Haruka317](https://center.mcmod.cn/626183/)
+
+**Partial technical route support**
+
+* Henry_Du
 
 **Beta players**：
 

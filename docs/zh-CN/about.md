@@ -21,6 +21,8 @@
 
 这些人们牺牲了自己的时间，努力为寿司峰争取更好的未来。
 
+排序随机，不分先后。
+
 <div class="grid cards" markdown>
 
 - **OrangeWolf**
@@ -37,6 +39,11 @@
     ![avatar](../images/zh-CN/octopus.jpg){: style="height:64px;width:64px;border-radius:50%;float:left;margin-right:12px;margin-bottom:8px;" }
     
     腐竹/免费劳动力
+    
+- **Nickel58**
+    ![avatar](../images/zh-CN/nickel58.jpg){: style="height:64px;width:64px;border-radius:50%;float:left;margin-right:12px;margin-bottom:8px;" }
+    
+    游戏管理/维护
 
 </div>
 
@@ -55,6 +62,10 @@
 * [Scarecrow01 aka Flintl0ck](https://www.curseforge.com/members/flintl0ck/projects) 资源包模型贡献者
 
 * [Haruka317](https://center.mcmod.cn/626183/)
+
+**部分技术路线支持**
+
+* Henry_Du
 
 **参与内测的玩家**：
 
