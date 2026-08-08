@@ -60,15 +60,16 @@
 
 ![选择苍穹整合包版本](../images/zh-CN/version-select-hmcl.png)
 
-② 打开高级设置
+② 打开高级设置，找到 JVM 参数
 
-![打开版本设置](../images/zh-CN/version-settings-hmcl.png)
+![HMCL 版本设置](../images/zh-CN/version-settings3-hmcl.png)
 
-![找到高级设置](../images/zh-CN/version-settings2-hmcl.png)
+![HMCL Java设置](../images/zh-CN/version-settings4-hmcl.png)
 
-③ 找到 JVM 参数
+![HMCL JVM 参数](../images/zh-CN/version-settings5-hmcl.png)
 
-![设置 JVM 参数](../images/zh-CN/version-settings-jvm-hmcl.png)
+
+
 
 这些参数会让您的游戏连接到寿司峰更新服务，并保持您的客户端是最新版。
 
