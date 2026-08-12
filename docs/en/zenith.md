@@ -72,7 +72,7 @@ If you set the JVM parameter as described in the [Joining Guide](#guide-join), y
 
 ### Web Map
 
-You can visit the [web map](https://bluemap.sushimc.top) to view the survival server's real-time map.
+You can visit the [web map](https://zenith.map.sushimc.top) to view the survival server's real-time map.
 The creative server does not have a map available yet.
 
 ---
