@@ -80,11 +80,14 @@ extra:
       lang: en
 
 nav:
-  - Home: index.md
+  - Home:
+    - index.md
+    - zenith.md
   - About: about.md
   - Social: social.md
   - Zenith:
     - zenith.md
     - zenith-game.md
     - zenith-advanced.md
+    - zenith-faqs.md
     - zenith-known-bugs.md

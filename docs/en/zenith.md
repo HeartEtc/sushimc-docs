@@ -86,3 +86,5 @@ The creative server does not have a map available yet.
 [Advanced Options](zenith-advanced.md)
 
 [Known Bugs and Issues (worth a read!)](zenith-known-bugs.md)
+
+[Frequently Asked Questions](zenith-faqs.md)

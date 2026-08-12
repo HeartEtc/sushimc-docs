@@ -120,3 +120,5 @@
 [高级选项](zenith-advanced.md)
 
 [已知漏洞和问题（建议细看！）](zenith-known-bugs.md)
+
+[常见问题和解决办法](zenith-faqs.md)

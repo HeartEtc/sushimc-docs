@@ -9,9 +9,7 @@ After launching, click `Multiplayer` and you'll see several network lines:
 | Line | Description |
 |------|-------------|
 | Direct | Connect directly to our server machine. Usually **laggy** if you're not in China. |
-| Direct-UDP | For testing purpose. |
 | NAT | Worth trying. This network line has slightly lower network load to our machines, and usually turns out **great in connection quality**. |
-| NAT-UDP | For testing purpose. |
 | Prime | Low bandwidth, but accessible across the world. You may try this if you're far away from China. |
 
 !!! tip "Ping"
