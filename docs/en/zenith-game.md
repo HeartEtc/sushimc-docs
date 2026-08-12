@@ -48,5 +48,11 @@ Voxy supports shaders on Sushi: Zenith. We recommend [**Complementary**](https:/
 !!! warning "Voxy Performance"
 
     Voxy is well-optimized, but some devices may still struggle. If you experience performance issues, you can disable **Enable Voxy** and **Receive Server-Side Scenery** in the video settings.
+    
+## Colorful Tooltips
+
+If you don't like the visual effects of colorful tooltips, consider disabling or removing mod [ColorTooltips](https://www.mcmod.cn/class/25915.html) to disable these effects.
+
+The rarity of items are provided by rarity core engine and cannot be removed from client.
 
 ---
