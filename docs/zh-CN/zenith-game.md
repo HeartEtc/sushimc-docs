@@ -55,4 +55,6 @@ Prime | 高峰期（`19:30 - 22:00`）使用，可缓解高峰期卡顿，但区
 
 物品稀有度本身由稀有度引擎提供，无法在客户端上移除。
 
+PS:如果您遇到了在create终端内按shift滚动更改物品数量时物品数量不变而提示框上下滑动的情况，也是灵动提示框干的，您可以尝试禁用该模组或手动修改配置文件，修改教程详见 [配置指南](https://yanbwe.github.io/Yanbwe-Wiki/colorTooltips/ConfigGuide.html))
+
 ---
