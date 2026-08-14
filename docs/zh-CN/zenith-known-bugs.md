@@ -20,3 +20,8 @@ Sable 模组提供的 绳索 方块在牵引物理结构时，会对客户端和
 ## 喷气背包不耐摔
 
 装备 [机械动力：喷气背包](https://www.mcmod.cn/class/7338.html) 的喷气背包后，重新加入服务器，您的喷气背包缓降将无法阻止您受到摔落伤害。为了解决该问题，请在加入服务器后关闭并重新开启喷气背包。或者，把它脱下来，然后再穿上。
+
+
+
+## 仓储界面无法滚动
+如果您遇到了在create终端内按shift滚动更改物品数量时物品数量不变而提示框上下滑动的情况，这是模组[灵动提示框(ColorTooltips)](https://www.mcmod.cn/class/25915.html)提供的功能，您可以尝试禁用该模组或手动修改配置文件，修改教程详见 [配置指南](https://yanbwe.github.io/Yanbwe-Wiki/colorTooltips/ConfigGuide.html))
