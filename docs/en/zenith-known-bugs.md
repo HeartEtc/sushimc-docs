@@ -20,3 +20,10 @@ The Rope provided by the Sable mod causes slight lag on both the client and serv
 ## Fall to death with a jetpack
 
 After equipping a jetpack from [Create:Jetpacks](https://www.mcmod.cn/class/7338.html) mod and re-joining the server, you can fall to death even holding shift while falling. To solve this, turn off and on your jetpack, or take it off from your armor slot and equip it again.
+
+## Scrolling Input
+
+Create and its addons may use a scrollbox to let players input. If scrolling while holding **Shift** doesn't work, this is caused by [ColorTooltips](https://www.mcmod.cn/class/25915.html), consider:
+
+- [Disable the mod](zenith-game.md#colortooltips)
+- Modify its config, see: [Configuration guide](https://yanbwe.github.io/Yanbwe-Wiki/en/colorTooltips/ConfigGuide.html)
