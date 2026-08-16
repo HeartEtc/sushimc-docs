@@ -14,17 +14,17 @@ SushiMC is a Velocity proxy network running multiple modpacks. Pick your adventu
 
 | Game Mode | Description |
 |-----------|-------------|
-| [**Zenith**](zenith.md) | A laid-back survival, exploration & building modpack — now in open beta. [**Know more**](zenith.md) |
-| **Myth(WIP)** | With the theme of agriculture, magic, industry. Released in 2025, currently under maintainance. |
+| [**Zenith**](zenith.md) | A laid-back survival, exploration & building modpack [**Know more**](zenith.md) |
+| [**Eden**](eden.md) | With the theme of agriculture, magic, light industry. First released in 2025, currently open beta. [**Know more**](eden.md) |
 | **New Wardon(WIP)** | Creative building. Currently not public, and under maintainance. |
 
 !!! tip "New here?"
 
-    First time playing? Currently we have only one modpack - Join [**Zenith**](guide-join.md) to get started in just 2 steps!
+    Welcome! Explore different modpacks above, or [get to know how to join](guide-join.md)!
 
 ---
 
-## 📖 Quick Navigation
+## Quick Navigation
 
 - [Join Now](guide-join.md) Learn how to join the server
 - [Gameplay Guide](guide-game.md) Introduction to common Sushi features

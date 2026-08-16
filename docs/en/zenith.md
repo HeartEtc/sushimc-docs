@@ -2,7 +2,19 @@
 
 ![Zenith logo](/images/en/logo-zenith.png)
 
-Sushi: Zenith entered open beta on July 19, 2026. It is a laid-back modpack focused on **survival, exploration, and building**. The server is still under active development.
+Sushi: Zenith entered open beta on July 19, 2026. It is a laid-back modpack focused on **survival, exploration, and building**. Release version available.
+
+---
+
+## Theme Mods
+
+- Create
+    - Create: Aeronautics
+- Iron's Spellbooks
+- L' Ender Cataclysm
+- Farmers Delight
+- Touhou Little Maid
+- Kaleidoscope Cookery
 
 ---
 
