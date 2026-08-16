@@ -58,6 +58,8 @@ Listed in no particular order.
 
 * [Haruka317](https://center.mcmod.cn/626183/)
 
+* [EaseCation 3D Text Generator](https://github.com/EaseCation/cube-3d-text)
+
 **Partial technical route support**
 
 * Henry_Du
@@ -66,7 +68,7 @@ Listed in no particular order.
 
 * Nickel58, MR_ZH_ZX, Hunyun_Forge, DL_Asparagine, Sylbur42
 
-**And you, dear player of SushiMC**。
+**And you, the player of SushiMC**。
 
 ---
 

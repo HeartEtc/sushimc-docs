@@ -63,6 +63,8 @@
 
 * [Haruka317](https://center.mcmod.cn/626183/)
 
+* [EaseCation图像生成器](https://github.com/EaseCation/cube-3d-text)
+
 **部分技术路线支持**
 
 * Henry_Du
