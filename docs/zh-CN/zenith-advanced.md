@@ -4,6 +4,28 @@
 >
 > 这些设置可能需要您掌握一些计算机使用知识。如果您阅读完指南后还是搞不懂如何操作，不用担心，您**不需要**做这些设置也能正常游玩 寿司峰：苍穹。
 
+## Voxy模组相关
+
+默认情况下，寿司峰：苍穹 整合包带有 Voxy 视距扩展模组。您可以在视频设置中调整您想要的视距。
+
+![Voxy设置](../images/zh-CN/voxy-settings.png)
+
+寿司峰的服务器会向您提供最大 **16区块** 的渲染距离，同时向您发送最大 **256区块** 的 Voxy 景色。您可以在 Voxy Server Side 模组设置中调整您想要接收多远的景色数据。
+
+![Voxy Server Side 设置](../images/zh-CN/voxy-settings2.png)
+
+寿司峰：苍穹 的 Voxy 模组支持光影。我们推荐您使用 [Complementary](https://modrinth.com/shader/complementary-unbound) 光影，并安装 [Euphoria Patches](https://modrinth.com/mod/euphoria-patches) 模组，来获得优秀的性能与美观的显示效果。
+
+!!! warning "关于 Voxy 性能"
+
+    Voxy 模组本身的优化十分优秀，但这仍然无法让一些设备流畅运行。如果您发现您的设备性能不足以渲染 Voxy 区块，您可以在视频设置中关闭`启用Voxy`以及`接收服务端远景`两项设置。
+    
+## 物品提示框显示相关 {#colortooltips}
+
+如果您不喜欢炫彩的物品提示框，您可以通过删除或禁用模组 [灵动提示框(ColorTooltips)](https://www.mcmod.cn/class/25915.html) 的方式来移除炫彩效果。
+
+物品稀有度本身由稀有度引擎提供，无法在客户端上移除。
+
 ## 不同线路之间的地图同步 {#data-sync}
 
 如果您经常切换线路，您可能会发现不同线路之间的 **Xaero 地图**数据是**相互分割**的，因为它认为这些线路是不同的服务器。虽然您可以在 Xaero 地图设置中将不同线路的地图连接起来，但这很麻烦，并且需要您反复操作。
