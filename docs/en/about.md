@@ -21,22 +21,22 @@ Listed in no particular order.
 
 - **OrangeWolf**
     ---
-    ![avatar](/images/zh-CN/orange.jpg){: style="height:64px;width:64px;border-radius:50%;float:left;margin-right:12px;margin-bottom:8px;" }
+    ![avatar](/images/avatars/orange.jpg){: style="height:64px;width:64px;border-radius:50%;float:left;margin-right:12px;margin-bottom:8px;" }
     
     Backend & network development
 
 - **HeartEtc**
-    ![avatar](/images/zh-CN/heartetc.jpg){: style="height:64px;width:64px;border-radius:50%;float:left;margin-right:12px;margin-bottom:8px;" }
+    ![avatar](/images/avatars/heartetc.jpg){: style="height:64px;width:64px;border-radius:50%;float:left;margin-right:12px;margin-bottom:8px;" }
     
     Localization, Datapacks, Resourcepacks
 
 - **Octopus**
-    ![avatar](/images/zh-CN/octopus.jpg){: style="height:64px;width:64px;border-radius:50%;float:left;margin-right:12px;margin-bottom:8px;" }
+    ![avatar](/images/avatars/octopus.jpg){: style="height:64px;width:64px;border-radius:50%;float:left;margin-right:12px;margin-bottom:8px;" }
     
     Founder of SushiMC, free labor.
     
 - **Nickel58**
-    ![avatar](/images/zh-CN/nickel58.jpg){: style="height:64px;width:64px;border-radius:50%;float:left;margin-right:12px;margin-bottom:8px;" }
+    ![avatar](/images/avatars/nickel58.jpg){: style="height:64px;width:64px;border-radius:50%;float:left;margin-right:12px;margin-bottom:8px;" }
     
     Game management & maintenance
 
