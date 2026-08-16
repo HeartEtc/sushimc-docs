@@ -5,4 +5,4 @@
 
     如果您对参与开发感兴趣，或者想要使用 寿司峰 主机运行自己的小服务器，您可以通过玩家群联系到我们的开发团队。
 
-![QRcode](../images/qqgroup.jpg)
+![QRcode](/images/qqgroup.jpg)

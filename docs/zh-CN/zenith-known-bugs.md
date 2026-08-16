@@ -28,5 +28,5 @@ Sable 模组提供的 绳索 方块在牵引物理结构时，会对客户端和
 
 您可以选择：
 
-- [禁用该模组](zenith-game.md#colortooltips)
+- [禁用该模组](zenith-advanced.md#colortooltips)
 - 手动修改配置文件，详见 [配置指南](https://yanbwe.github.io/Yanbwe-Wiki/colorTooltips/ConfigGuide.html)

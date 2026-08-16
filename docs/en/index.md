@@ -1,5 +1,7 @@
 # SushiMC Player Guide
 
+![Logo](/images/en/logo.png)
+
 Welcome to **SushiMC** — a Minecraft network server!
 
 > 🚧 This guide is a work in progress. If you have questions, join our QQ group.
@@ -18,14 +20,16 @@ SushiMC is a Velocity proxy network running multiple modpacks. Pick your adventu
 
 !!! tip "New here?"
 
-    First time playing? Currently we have only one modpack - Join [**Zenith**](zenith.md#guide-join) to get started in just 2 steps!
+    First time playing? Currently we have only one modpack - Join [**Zenith**](guide-join.md) to get started in just 2 steps!
 
 ---
 
 ## 📖 Quick Navigation
 
-- [About SushiMC](about.md)
-- [Join our QQ](social.md)
+- [Join Now](guide-join.md) Learn how to join the server
+- [Gameplay Guide](guide-game.md) Introduction to common Sushi features
+- [About SushiMC](about.md) Learn about the dev team
+- [Join our QQ](social.md) Join our player community
 
 ---
 

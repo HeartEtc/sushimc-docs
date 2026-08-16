@@ -26,22 +26,22 @@
 <div class="grid cards" markdown>
 
 - **OrangeWolf**
-    ![avatar](../images/zh-CN/orange.jpg){: style="height:64px;width:64px;border-radius:50%;float:left;margin-right:12px;margin-bottom:8px;" }
+    ![avatar](/images/zh-CN/orange.jpg){: style="height:64px;width:64px;border-radius:50%;float:left;margin-right:12px;margin-bottom:8px;" }
     
     后端/网络技术开发
 
 - **HeartEtc**
-    ![avatar](../images/zh-CN/heartetc.jpg){: style="height:64px;width:64px;border-radius:50%;float:left;margin-right:12px;margin-bottom:8px;" }
+    ![avatar](/images/zh-CN/heartetc.jpg){: style="height:64px;width:64px;border-radius:50%;float:left;margin-right:12px;margin-bottom:8px;" }
     
     汉化工作，资源包/数据包制作
 
 - **Octopus**
-    ![avatar](../images/zh-CN/octopus.jpg){: style="height:64px;width:64px;border-radius:50%;float:left;margin-right:12px;margin-bottom:8px;" }
+    ![avatar](/images/zh-CN/octopus.jpg){: style="height:64px;width:64px;border-radius:50%;float:left;margin-right:12px;margin-bottom:8px;" }
     
     腐竹/免费劳动力
     
 - **Nickel58**
-    ![avatar](../images/zh-CN/nickel58.jpg){: style="height:64px;width:64px;border-radius:50%;float:left;margin-right:12px;margin-bottom:8px;" }
+    ![avatar](/images/zh-CN/nickel58.jpg){: style="height:64px;width:64px;border-radius:50%;float:left;margin-right:12px;margin-bottom:8px;" }
     
     游戏管理/维护
 

@@ -1,6 +1,6 @@
 # 寿司峰 玩家手册
 
-![Logo](../images/zh-CN/logo.png)
+![Logo](/images/zh-CN/logo.png)
 
 欢迎来到 **寿司峰** —— Minecraft 群组服务器！
 
@@ -20,7 +20,7 @@
 
 !!! tip "新玩家？"
 
-    欢迎！目前我们只有一个玩法，也就是 苍穹。查看[文档](zenith.md#guide-join)，只需两步即可加入游戏！
+    欢迎！目前我们只有一个玩法，也就是 苍穹。查看[文档](guide-join.md)，只需两步即可加入游戏！
 
 > *更多玩法即将开放，敬请期待！*
 

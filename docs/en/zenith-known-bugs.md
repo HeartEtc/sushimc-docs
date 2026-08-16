@@ -25,5 +25,5 @@ After equipping a jetpack from [Create:Jetpacks](https://www.mcmod.cn/class/7338
 
 Create and its addons may use a scrollbox to let players input. If scrolling while holding **Shift** doesn't work, this is caused by [ColorTooltips](https://www.mcmod.cn/class/25915.html), consider:
 
-- [Disable the mod](zenith-game.md#colortooltips)
+- [Disable the mod](zenith-advanced.md#colortooltips)
 - Modify its config, see: [Configuration guide](https://yanbwe.github.io/Yanbwe-Wiki/en/colorTooltips/ConfigGuide.html)

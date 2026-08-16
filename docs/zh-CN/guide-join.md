@@ -30,35 +30,35 @@
 
 ① 选择版本
 
-![选择整合包版本](../images/zh-CN/version-select-pcl.png)
+![选择整合包版本](/images/zh-CN/version-select-pcl.png)
 
 ② 打开高级设置
 
-![打开版本设置](../images/zh-CN/version-settings-pcl.png)
+![打开版本设置](/images/zh-CN/version-settings-pcl.png)
 
-![进入设置选项卡](../images/zh-CN/version-settings2-pcl.png)
+![进入设置选项卡](/images/zh-CN/version-settings2-pcl.png)
 
-![找到高级设置](../images/zh-CN/version-settings3-pcl.png)
+![找到高级设置](/images/zh-CN/version-settings3-pcl.png)
 
-![进入高级设置](../images/zh-CN/version-settings4-pcl.png)
+![进入高级设置](/images/zh-CN/version-settings4-pcl.png)
 
 ③ 找到 JVM 参数
 
-![设置 JVM 参数](../images/zh-CN/version-settings-jvm-pcl.png)
+![设置 JVM 参数](/images/zh-CN/version-settings-jvm-pcl.png)
 
 ### HMCL 设置步骤
 
 ① 选择版本
 
-![选择整合包版本](../images/zh-CN/version-select-hmcl.png)
+![选择整合包版本](/images/zh-CN/version-select-hmcl.png)
 
 ② 打开高级设置，找到 JVM 参数
 
-![HMCL 版本设置](../images/zh-CN/version-settings3-hmcl.png)
+![HMCL 版本设置](/images/zh-CN/version-settings3-hmcl.png)
 
-![HMCL Java设置](../images/zh-CN/version-settings4-hmcl.png)
+![HMCL Java设置](/images/zh-CN/version-settings4-hmcl.png)
 
-![HMCL JVM 参数](../images/zh-CN/version-settings5-hmcl.png)
+![HMCL JVM 参数](/images/zh-CN/version-settings5-hmcl.png)
 
 这些参数会让您的游戏连接到寿司峰更新服务，并保持您的客户端是最新版。
 

@@ -18,7 +18,7 @@ Prime | 高峰期（`19:30 - 22:00`）使用，可缓解高峰期卡顿，但区
 
 ## 群组服务器
 
-![选择服务器](../images/zh-CN/server-switch.png)
+![选择服务器](/images/zh-CN/server-switch.png)
 
 加入服务器后，使用 `/server` 命令切换子服务器。
 
@@ -26,7 +26,7 @@ Prime | 高峰期（`19:30 - 22:00`）使用，可缓解高峰期卡顿，但区
 
 ## 跨服聊天
 
-![跨服聊天](../images/zh-CN/cross-server-chat.png)
+![跨服聊天](/images/zh-CN/cross-server-chat.png)
 
 您可以看到 寿司峰 所有群组服务器的聊天。与您一起游玩的玩家的聊天消息会像原版一样出现，而来自其他服务器的聊天会在玩家名称前标注服务器代号。
 

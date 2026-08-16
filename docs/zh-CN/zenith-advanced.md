@@ -8,11 +8,11 @@
 
 默认情况下，寿司峰：苍穹 整合包带有 Voxy 视距扩展模组。您可以在视频设置中调整您想要的视距。
 
-![Voxy设置](../images/zh-CN/voxy-settings.png)
+![Voxy设置](/images/zh-CN/voxy-settings.png)
 
 寿司峰的服务器会向您提供最大 **16区块** 的渲染距离，同时向您发送最大 **256区块** 的 Voxy 景色。您可以在 Voxy Server Side 模组设置中调整您想要接收多远的景色数据。
 
-![Voxy Server Side 设置](../images/zh-CN/voxy-settings2.png)
+![Voxy Server Side 设置](/images/zh-CN/voxy-settings2.png)
 
 寿司峰：苍穹 的 Voxy 模组支持光影。我们推荐您使用 [Complementary](https://modrinth.com/shader/complementary-unbound) 光影，并安装 [Euphoria Patches](https://modrinth.com/mod/euphoria-patches) 模组，来获得优秀的性能与美观的显示效果。
 
@@ -44,6 +44,6 @@
 
 与上面类似，您切换线路后可能注意到** Voxy 区块缓存都消失了**，需要重新加载。您可以按照上面的 [数据同步](#data-sync) 部分，将版本文件夹下`.voxy`目录的几个文件夹也用快捷方式或软链接处理一下，这样区块缓存就也会在不同线路之间同步。最后的文件夹结构可能是这样的：
 
-![区块缓存同步](../images/zh-CN/data-sync.png)
+![区块缓存同步](/images/zh-CN/data-sync.png)
 
 ---
