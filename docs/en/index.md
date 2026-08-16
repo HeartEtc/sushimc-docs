@@ -14,7 +14,7 @@ SushiMC is a Velocity proxy network running multiple modpacks. Pick your adventu
 
 | Game Mode | Description |
 |-----------|-------------|
-| [**Zenith**](zenith.md) | A laid-back survival, exploration & building modpack — now in open beta. [**Enter guide →**](zenith.md) |
+| [**Zenith**](zenith.md) | A laid-back survival, exploration & building modpack — now in open beta. [**Know more**](zenith.md) |
 | **Myth(WIP)** | With the theme of agriculture, magic, industry. Released in 2025, currently under maintainance. |
 | **New Wardon(WIP)** | Creative building. Currently not public, and under maintainance. |
 
